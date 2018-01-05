@@ -3,8 +3,7 @@
 
 
 ### 自动跑马灯label
-MarqueeLabel is a UILabel subclass adds a scrolling marquee effect when the text of the label outgrows the available width
-https://github.com/cbpowell/MarqueeLabel
+[MarqueeLabel is a UILabel subclass adds a scrolling marquee effect when the text of the label outgrows the available width](https://github.com/cbpowell/MarqueeLabel)
 
 ### 带动画的label
 UILabel-like view with easy to extend appear/disappear animation

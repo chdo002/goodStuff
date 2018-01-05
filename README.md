@@ -2,7 +2,7 @@
 收集的好库
 
 
-### 自动跑马灯label
+## 自动跑马灯label
 
 ![GIF of MarqueeLabelDemo in action](https://raw.githubusercontent.com/cbpowell/MarqueeLabel/master/Metadata/MarqueeLabelDemo.gif)
 
@@ -10,7 +10,7 @@
 
 
 
-### 带动画的label
+## 带动画的label
 
 ![image](http://zippy.gfycat.com/LimitedWigglyGermanshepherd.gif)
 
@@ -18,7 +18,7 @@
 
 
 
-### 渐变动画label
+## 渐变动画label
 
 ![image](https://github.com/tomknig/TOMSMorphingLabel/raw/master/demo.gif)
 
@@ -26,7 +26,7 @@
 
 
 
-### 渐变动画label
+## 渐变动画label
 
 ![image](https://raw.githubusercontent.com/zipme/RQShineLabel/master/Screenshots/rqshinelabel.gif)
 
